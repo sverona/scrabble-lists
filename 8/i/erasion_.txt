@@ -1,0 +1,20 @@
+ABEINORS		BARONIES		BARONY, the domain of a baron [n]
+ABEINORS		SEAROBIN	s	a marine fish [n -S]
+ACEINORS		SCENARIO	s	a summary of the plot of a dramatic work [n -IOS]
+ADEINORS		ANEROIDS		ANEROID, a type of barometer [n]
+ADEINORS		ANODISER		ANODISER n pl. -S anodizer
+AEFINORS		FARINOSE		resembling farina (a fine meal made from cereal grain) [adj]
+AEGINORS		ORGANISE	drs	to organize (to form into an orderly whole) [v -NISED, -NISING, -NISES]
+AEILNORS		AILERONS		AILERON, a movable control surface on an airplane wing [n]
+AEILNORS		ALIENORS		ALIENOR, one that transfers property [n]
+AEIMNORS		MORAINES		MORAINE, an accumulation of debris deposited by a glacier [n]
+AEIMNORS		ROMAINES		ROMAINE, a variety of lettuce [n]
+AEIMNORS		ROMANISE	ds	to romanize (to write in the Roman alphabet) [v -ISED, -ISING, -ISES]
+AEINNORS		NONARIES		NONARY n pl. -RIES a group of nine
+AEINNORS		RAISONNE		arranged systematically [adj]
+AEINORSS		ERASIONS		ERASION, an erasure (the act of erasing (to rub or scrape out)) [n]
+AEINORSS		SENSORIA	l	SENSORIUM, the part of the brain concerned with the reception and interpretation of sensory stimuli [n]
+AEINORST		NOTARIES		NOTARY, a public officer who certifies documents [n]
+AEINORST		NOTARISE		NOTARISE v -RISED, -RISING, -RISES to notarize
+AEINORST		SENORITA	s	an unmarried Spanish girl or woman [n -S]
+AEINORSV		AVERSION	s	a feeling of repugnance [n -S] : AVERSIVE ~adj

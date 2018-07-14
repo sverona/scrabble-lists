@@ -1,0 +1,500 @@
+ETIOLATE	to whiten (to make white (of the color of pure snow)) [v -LATED, -LATING, -LATES]	p	ds	AEEILOTT
+EULOGIAE	EULOGIA, holy bread [n]			AEEGILOU
+GAIETIES	GAIETY, festive activity [n]			AEEGIIST
+AREOLATE	AREOLA, a small space in a network of leaf veins [adj]		d	AAEELORT
+AERONAUT	one who operates an airship [n -S]		s	AAENORTU
+OUTEATEN	OUTEAT, to surpass in eating [v]			AEENOTTU
+OEDIPEAN	oedipal (pertaining to the libidinal feelings in a child toward the parent of the opposite sex) [adj]			ADEEINOP
+ABOITEAU	aboideau (a type of dike) [n -TEAUS or -TEAUX]		sx	AABEIOTU
+THIOUREA	a chemical compound [n -S]		s	AEHIORTU
+ALEURONE	protein matter found in the seeds of certain plants [n -S] : ALEURONIC ~adj		s	AEELNORU
+ALIENAGE	the state of being foreign (situated outside a place or country) [n -S]		s	AAEEGILN
+RETIARII	RETIARIUS, a ancient Roman gladiator [n]			AEIIIRRT
+TOLERANT	inclined to tolerate [adj]			AELNORTT
+RATOONER	a plant that ratoons [n -S]		s	AENOORRT
+UINTAITE	a variety of asphalt [n -S]		s	AEIINTTU
+AEQUORIN	a protein secreted by jellyfish [n -S]		s	AEINOQRU
+ABOIDEAU	a type of dike [n -DEAUS or -DEAUX]		sx	AABDEIOU
+DEROGATE	to detract (to take away) [v -GATED, -GATING, -GATES]		ds	ADEEGORT
+AUREOLAE	AUREOLA, a halo [n]			AAEELORU
+ACTINIAE	ACTINIA, a marine animal [n]			AACEIINT
+RAVIGOTE	a spiced vinegar sauce [n -S]		s	AEGIORTV
+ELONGATE	to lengthen (to make or become longer) [v -GATED, -GATING, -GATES]		ds	AEEGLNOT
+ANAEROBE	an organism that does not require oxygen to live [n -S] : ANAEROBIC ~adj		s	AABEENOR
+INITIATE	to originate [v -ATED, -ATING, -ATES]		ds	AEIIINTT
+IBOGAINE	an alkaloid used as an antidepressant [n -S]		s	ABEGIINO
+URINATOR	one that urinates (to discharge urine) [n -S]		s	AINORRTU
+DOLERITE	a variety of basalt [n -S]		s	DEEILORT
+LOITERER	one that loiters (to stand idly about) [n -S]		s	EEILORRT
+TROILITE	a mineral [n -S]		s	EIILORTT
+RENEGADO	a traitor (one who betrays another) [n -DOS or -DOES]		s	ADEEGNOR
+DEAERATE	to remove air or gas from [v -ATED, -ATING, -ATES]		ds	AADEEERT
+LAUREATE	to laurel (to crown with a wreath of evergreen leaves) [v -ATED, -ATING, -ATES]		ds	AAEELRTU
+ERIGERON	an herb (a flowering plant with a nonwoody stem) [n -S]		s	EEGINORR
+DETONATE	to cause to explode [v -NATED, -NATING, -NATES]		ds	ADEENOTT
+HETAIRAI	HETAIRA, hetaera (a concubine) [n]			AAEHIIRT
+IRRIGATE	to supply with water by artificial means [v -GATED, -GATING, -GATES]		ds	AEGIIRRT
+IRONWARE	articles made of iron [n -S]		s	AEINORRW
+ELUVIATE	to undergo a transfer of materials in the soil [v -ATED, -ATING, -ATES]		ds	AEEILTUV
+OPTIONEE	one who holds a legal option [n -S]		s	EEINOOPT
+AUTOGIRO	a type of airplane (a winged aircraft propelled by jet engines or propellers) [n -ROS]		s	AGIOORTU
+NONRATED	not rated [adj]			ADENNORT
+RATOONED	RATOON, to sprout from a root planted the previous year [v]			ADENOORT
+OUTLEARN	to surpass in learning [v -LEARNED or -LEARNT, -LEARNING, -LEARNS]		st	AELNORTU
+DIALOGUE	to carry on a conversation [v -LOGUED, -LOGUING, -LOGUES]		drs	ADEGILOU
+OVARIOLE	one of the tubes of which the ovaries of most insects are composed [n -S]		s	AEILOORV
+EGOMANIA	extreme egotism [n -S]		cs	AAEGIMNO
+AUROREAN	AURORA, the rising light of the morning [adj]			AAENORRU
+NOTARIAL	pertaining to a notary (a public officer who certifies documents) [adj]			AAILNORT
+AUDITION	to give a trial performance [v -ED, -ING, -S]		s	ADIINOTU
+ANTIRIOT	designed to prevent or end riots [adj]			AIINORTT
+ENROOTED	ENROOT, to implant (to set securely) [v]			DEENOORT
+BOISERIE	wood paneling on a wall [n -S]		s	BEEIIORS
+RIGATONI	a tubular pasta [n -S]		s	AGIINORT
+DEUTERON	an atomic particle [n -S]		s	DEENORTU
+ELOIGNED	ELOIGN, to remove to a distant place [v]			DEEGILNO
+ANTIDORA	holy breads [n]			AADINORT
+DENOTIVE	DENOTE, to indicate (to point out) [adj]			DEEINOTV
+RELOADER	one that reloads (to place in or on a means of conveyance) [n -S]		s	ADEELORR
+AEROFOIL	airfoil (a part of an aircraft designed to provide lift or control) [n -S]		s	AEFILOOR
+TOLERATE	to allow without active opposition [v -ATED, -ATING, -ATES]		ds	AEELORTT
+IODATION	the act of iodating (to iodize (to treat with iodine)) [n -S]		s	ADIINOOT
+IDEATIVE	pertaining to ideation (the act of ideating (to form an idea)) [adj]			ADEEIITV
+NARCEINE	an opium derivative [n -S]		s	ACEEINNR
+ENCAENIA	annual university ceremonies [n]			AACEEINN
+AERODYNE	an aircraft that is heavier than air [n -S]		s	ADEENORY
+FAVORITE	a person or thing preferred above all others [n -S]		s	AEFIORTV
+OLIGURIA	reduced excretion of urine [n -S]		s	AGIILORU
+AERIFIED	AERIFY, to aerate (to supply with air) [v]			ADEEFIIR
+ANOREXIA	loss of appetite [n -S]		s	AAEINORX
+AUREOLED	AUREOLE, to surround with a halo [v]			ADEELORU
+REDOLENT	fragrant (having a pleasant odor) [adj]			DEELNORT
+OEILLADE	an amorous look [n -S]		s	ADEEILLO
+ANALOGUE	something that bears an analogy to something else [n -S]		s	AAEGLNOU
+MOIETIES	MOIETY, a half (one of two equal parts) [n]			EEIIMOST
+FOREDATE	to antedate (to be of an earlier date than) [v -DATED, -DATING, -DATES]		ds	ADEEFORT
+NARRATED	NARRATE, to tell a story [v]			AADENRRT
+URINEMIA	uremia (an abnormal condition of the blood) [n -S] : URINEMIC ~adj		s	AEIIMNRU
+OLEANDER	a flowering shrub [n -S]		s	ADEELNOR
+RODEOING	RODEO, to participate in a rodeo (an exhibition of cowboy skills) [v]			DEGINOOR
+EUDAIMON	eudemon (a good spirit) [n -S]		s	ADEIMNOU
+GLEETIER	GLEETY, resembling mucus (a viscid bodily fluid) [adj]			EEEGILRT
+DURATION	continuance in time [n -S]		s	ADINORTU
+LINGERIE	women's underwear [n -S]		s	EEGIILNR
+ENDEAVOR	to make an effort [v -ED, -ING, -S]		s	ADEENORV
+OEDEMATA	OEDEMA, edema (an excessive accumulation of serous fluid) [n]			AADEEMOT
+UNORNATE	ORNATE, elaborately or excessively ornamented [adj]			AENNORTU
+TOILETED	TOILET, to dress and groom oneself [v]			DEEILOTT
+ROGATION	the proposal of a law in ancient Rome [n -S]		s	AGINOORT
+ANNEALER	one that anneals (to toughen (to make tough)) [n -S]		s	AAEELNNR
+AGIOTAGE	the business of a broker [n -S]		s	AAEGGIOT
+IDONEOUS	suitable (appropriate) [adj]			DEINOOSU
+REGULINE	REGULUS, a mass that forms beneath the slag in a furnace [adj]			EEGILNRU
+NEONATAL	NEONATE, a newborn child [adj]			AAELNNOT
+AUBRETIA	aubrieta (a flowering plant) [n -S]		s	AABEIRTU
+SARTORII	SARTORIUS, a flat, narrow thigh muscle [n]			AIIORRST
+ULTERIOR	more remote [adj]			EILORRTU
+OVEREDIT	to edit more than necessary [v -ED, -ING, -S]		s	DEEIORTV
+EDACIOUS	voracious [adj]			ACDEIOSU
+OCEANAUT	an aquanaut (a scuba diver trained to live in underwater installations) [n -S]		s	AACENOTU
+BEAUTIES	BEAUTY, one that is lovely [n]			ABEEISTU
+PATOOTIE	the buttocks (either of the two rounded parts of the rump) [n -S]		s	AEIOOPTT
+ROENTGEN	a unit of radiation dosage [n -S]		s	EEGNNORT
+TRINODAL	having three nodes [adj]			ADILNORT
+OUTGLARE	to surpass in glaring (to shine with a harshly brilliant light) [v -GLARED, -GLARING, -GLARES]		ds	AEGLORTU
+ELICITOR	one that elicits (to educe (to draw forth or bring out)) [n -S]		s	CEIILORT
+RELOANED	RELOAN, LOAN, to lend (to give the temporary use of) [v]			ADEELNOR
+AIRBORNE	flying [adj]			ABEINORR
+EUCAINES	EUCAINE, an anesthetic [n]			ACEEINSU
+OVERTONE	a higher partial tone [n -S]		s	EENOORTV
+IDONEITY	the state of being idoneous (suitable (appropriate)) [n -TIES]			DEIINOTY
+EUDAEMON	eudemon (a good spirit) [n -S]		s	ADEEMNOU
+LOITERED	LOITER, to stand idly about [v]			DEEILORT
+ATTORNED	ATTORN, to acknowledge a new owner as one's landlord [v]			ADENORTT
+VERATRIA	veratrin (a poisonous mixture of alkaloids) [n -S]		s	AAEIRRTV
+AVIATION	the act of aviating (to fly an aircraft) [n -S] : AVIATIC ~adj		s	AAIINOTV
+OVERLENT	OVERLEND, to lend too much [v]			EELNORTV
+EROGENIC	arousing sexual desire [adj]			CEEGINOR
+TEAHOUSE	a public establishment serving tea [n -S]		s	AEEHOSTU
+NONGLARE	one that is resistant to glare [n -S]		s	AEGLNNOR
+ACUITIES	ACUITY, sharpness [n]	v		ACEIISTU
+GLIADINE	gliadin (a simple protein) [n -S]		s	ADEGIILN
+RAINWEAR	waterproof clothing [n]			AAEINRRW
+UNWARIER	UNWARY, WARY, watchful (closely observant or alert) [adj]			AEINRRUW
+AUDIENCE	a group of listeners or spectators [n -S]		s	ACDEEINU
+TUTORIAL	a session of tutoring [n -S]		s	AILORTTU
+HOTELIER	a hotel manager [n -S]		s	EEHILORT
+TANDOORI	food cooked in a tandoor [n -S]		s	ADINOORT
+OBEDIENT	obeying or willing to obey [adj]			BDEEINOT
+RECOINED	RECOIN, COIN, to make coins (metal currency) [v]			CDEEINOR
+ALEATORY	pertaining to luck [adj]			AAELORTY
+TOREADOR	a bullfighter [n -S]		s	ADEOORRT
+VINIFERA	a European grape [n -S]		s	AEFIINRV
+TRIGONAL	shaped like a triangle [adj]			AGILNORT
+COGITATE	to ponder (to consider something deeply and thoroughly) [v -TATED, -TATING, -TATES]		ds	ACEGIOTT
+AROYNTED	AROYNT, to aroint (to drive away) [v]			ADENORTY
+TRENDING	TREND, to take a particular course [v]			DEGINNRT
+ELECTRON	an elementary particle [n -S]		s	CEELNORT
+PINAFORE	a child's apron [n -S]		ds	AEFINOPR
+TEVATRON	a particle accelerator [n -S]		s	AENORTTV
+GEODETIC	pertaining to geodesy (geographical surveying) [adj]		s	CDEEGIOT
+WEIGELIA	weigela (a flowering shrub) [n -S]		s	AEEGIILW
+HEADNOTE	a prefixed note [n -S]		s	ADEEHNOT
+ECLOGITE	a type of rock [n -S]		s	CEEGILOT
+CRITERIA	CRITERION, a standard of judgment [n]		l	ACEIIRRT
+OBLIGATE	to oblige (to put in one's debt by a favor or service) [v -GATED, -GATING, -GATES]		ds	ABEGILOT
+DARTLING	DARTLE, to dart repeatedly [v]			ADGILNRT
+AUTUNITE	a mineral [n -S]		s	AEINTTUU
+DANEWORT	a flowering plant [n -S]		s	ADENORTW
+UNDERLIE	to lie under [v -LAY, -LAIN, -LYING, -LIES]		s	DEEILNRU
+EROTIZED	EROTIZE, to give a sexual meaning to [v]			DEEIORTZ
+AUTODYNE	a type of electrical circuit [n -S]		s	ADENOTUY
+RADIATOR	a heating device [n -S]		s	AADIORRT
+OUTGIVEN	OUTGIVE, to give more than [v]			EGINOTUV
+AUDITIVE	an auditory (a group of listeners) [n -S]		s	ADEIITUV
+GLAIRIER	GLAIRY, resembling egg white [adj]			AEGIILRR
+RADIOING	RADIO, to transmit by radio (an apparatus for wireless communication) [v]			ADGIINOR
+ANTELOPE	a ruminant mammal [n -S]	g	s	AEELNOPT
+GUERIDON	a small stand or table [n -S]		s	DEGINORU
+NOONTIDE	noon (midday (the middle of the day)) [n -S]		s	DEINNOOT
+ATENOLOL	a drug to treat hypertension [n -S]		s	AELLNOOT
+UNIDEAED	lacking ideas [adj]			ADDEEINU
+NEOTENIC	NEOTENY, attainment of sexual maturity in the larval stage [adj]			CEEINNOT
+SIDELINE	to put out of action [v -LINED, -LINING, -LINES]		drs	DEEIILNS
+ANECDOTA	ANECDOTE, a brief story [n]		l	AACDENOT
+ORIGINAL	the first form of something [n -S]		s	AGIILNOR
+ENGINEER	to carry through or manage by contrivance [v -ED, -ING, -S]		s	EEEGINNR
+CAPOEIRA	a Brazilian dance [n -S]		s	AACEIOPR
+AEROBIUM	aerobe (an organism that requires oxygen to live) [n -BIA]			ABEIMORU
+ATHETOID	affected with a type of nervous disorder [adj]			ADEHIOTT
+GUILTIER	GUILTY, worthy of blame for an offense [adj]			EGIILRTU
+DOMINEER	to tyrannize [v -ED, -ING, -S]		s	DEEIMNOR
+NEMATODE	a kind of worm [n -S]		s	ADEEMNOT
+TOWERIER	TOWERY, very tall [adj]			EEIORRTW
+AIRWOMEN	AIRWOMAN, a female aviator (one that aviates (to fly an aircraft)) [n]			AEIMNORW
+DEVONIAN	of or pertaining to a certain geologic time period [adj]			ADEINNOV
+INDEVOUT	not devout [adj]			DEINOTUV
+UBIETIES	UBIETY, the state of having a definite location [n]	d		BEEIISTU
+UNIRONED	IRON, to furnish with iron (a metallic element) [adj]			DEINNORU
+LOOSENER	one that loosens (to make looser (loose)) [n -S]		s	EELNOORS
+ORIBATID	any of a family of eyeless mites [n -S]		s	ABDIIORT
+ROTENONE	an insecticide [n -S]		s	EENNOORT
+CURARINE	a poisonous alkaloid [n -S]		s	ACEINRRU
+UNATONED	ATONE, to make amends or reparation [adj]			ADENNOTU
+PETRONEL	a portable firearm [n -S]		s	EELNOPRT
+OUTRIDER	a mounted attendant who rides before or beside a carriage [n -S]		s	DEIORRTU
+AVIARIES	AVIARY, a large enclosure for live birds [n]			AAEIIRSV
+IRONWEED	a shrub (a low, woody plant) [n -S]		s	DEEINORW
+ORNATELY	ORNATE, elaborately or excessively ornamented [adv]			AELNORTY
+PERONEAL	pertaining to the fibula [adj]			AEELNOPR
+RETOOLED	RETOOL, to reequip with tools [v]			DEELOORT
+RINGDOVE	a European pigeon [n -S]		s	DEGINORV
+DILATION	the act of dilating (to make wider or larger) [n -S]		s	ADIILNOT
+RIGAUDON	rigadoon (a lively dance) [n -S]		s	ADGINORU
+ROULETTE	to make tiny slits in [v -LETTED, -LETTING, -LETTES]		ds	EELORTTU
+ANECDOTE	a brief story [n -DOTES or -DOTA] : ANECDOTAL, ANECDOTIC ~adj		s	ACDEENOT
+VERONICA	a handkerchief bearing the image of Christ's face [n -S]		s	ACEINORV
+ROUNDLET	a small circle [n -S]		s	DELNORTU
+OVERBITE	a faulty closure of the teeth [n -S]		s	BEEIORTV
+IDEOGRAM	a type of written symbol [n -S]		s	ADEGIMOR
+OUTPREEN	to surpass in preening (to smooth or clean with the beak or tongue) [v -ED, -ING, -S]		s	EENOPRTU
+MEUNIERE	cooked in browned butter [adj]			EEEIMNRU
+GOLDENER	GOLDEN, of the color of gold [adj]			DEEGLNOR
+TRUDGEON	trudgen (a swimming stroke) [n -S]		s	DEGNORTU
+ALTERANT	something that alters [n -S]		s	AAELNRTT
+EUPHORIA	a feeling of well-being [n -S] : EUPHORIC ~adj		s	AEHIOPRU
+DEVOTION	the act of devoting (to give oneself wholly to) [n -S]		s	DEINOOTV
+EGLATERE	a wild rose [n -S]		s	AEEEGLRT
+GRAVITON	a hypothetical particle [n -S]		s	AGINORTV
+OUTWRITE	to write better than [v -WROTE or -WRIT, -WRITTEN, -WRITING, -WRITES]		s	EIORTTUW
+GROUTIER	GROUTY, surly (sullenly rude) [adj]			EGIORRTU
+ALTITUDE	the vertical elevation of an object above a given level [n -S]		s	ADEILTTU
+UTILIDOR	an insulated system of pipes for use in arctic regions [n -S]		s	DIILORTU
+GAYETIES	GAYETY, gaiety (festive activity) [n]			AEEGISTY
+TAQUERIA	a restaurant specializing in tacos and burritos [n -S]		s	AAEIQRTU
+REDLINER	one that redlines (to withhold loans or insurance from certain neighborhoods) [n -S]		s	DEEILNRR
+DOORNAIL	a large-headed nail [n -S]		s	ADILNOOR
+REJOINED	REJOIN, JOIN, to unite (to bring together so as to form a whole) [v]			DEEIJNOR
+ANTIARIN	antiar (an arrow poison) [n -S]		s	AAIINNRT
+EVENTUAL	occurring at a later time [adj]			AEELNTUV
+NOTIFIED	NOTIFY, to inform (to supply with information) [v]			DEFIINOT
+ANETHOLE	a chemical compound [n -S]		s	AEEHLNOT
+OOGAMETE	a female gamete of certain protozoa [n -S]	z	s	AEEGMOOT
+IDOLATOR	idolater (one that worships idols) [n -S]		s	ADILOORT
+OUTDRIVE	to drive a golf ball farther than [v -DROVE, -DRIVEN, -DRIVING, -DRIVES]		ns	DEIORTUV
+EARPIECE	an earphone (a listening device worn over the ear) [n -S]		s	ACEEEIPR
+DEVOTING	DEVOTE, to give oneself wholly to [v]			DEGINOTV
+RIGADOON	a lively dance [n -S]		s	ADGINOOR
+AUTOGENY	the production of living organisms from inanimate matter [n -NIES] : AUTOGENIC ~adj			AEGNOTUY
+EYELINER	makeup for the eyes [n -S]		s	EEEILNRY
+UNIONISE	to unionize (to form into a union) [v -ISED, -ISING, -ISES]		ds	EIINNOSU
+EUPNOEAS	EUPNOEA, eupnea (normal breathing) [n]			AEENOPSU
+FILARIAE	FILARIA, a parasitic worm [n]			AAEFIILR
+COEDITOR	one that coedits (to edit with another person) [n -S]		s	CDEIOORT
+PELERINE	a woman's cape [n -S]		s	EEEILNPR
+DIOECIES	DIOECY, dioecism (the state of being dioicous (unisexual)) [n]			CDEEIIOS
+UNREPAIR	lack of repair [n -S]		s	AEINPRRU
+DELICATE	a delicacy (a choice food) [n -S]		s	ACDEEILT
+DOVETAIL	to fit together closely [v -ED, -ING, -S]		s	ADEILOTV
+ANTIDRUG	opposed to illicit drugs [adj]			ADGINRTU
+AQUATONE	a type of printing process [n -S]		s	AAENOQTU
+COEQUATE	to equate with something else [v -QUATED, -QUATING, -QUATES]		ds	ACEEOQTU
+ROTTENER	ROTTEN, being in a state of decay [adj]			EENORRTT
+FAIRGOER	one who attends a fair [n -S]		s	AEFGIORR
+AGITATOR	one that agitates (to move with a violent, irregular action) [n -S]		s	AAGIORTT
+PRIORATE	the office of a prior [n -S]		s	AEIOPRRT
+LENTANDO	becoming slower -- used as a musical direction [adv]			ADELNNOT
+EULOGIES	EULOGY, a formal expression of high praise [n]			EEGILOSU
+PARANOEA	paranoia (a mental disorder) [n -S]		s	AAAENOPR
+DILATATE	dilated [adj]			AADEILTT
+GREENLET	a vireo (a small bird) [n -S]		s	EEEGLNRT
+ANTEDATE	to be of an earlier date than [v -DATED, -DATING, -DATES]		ds	AADEENTT
+INDIGENE	a native (an original inhabitant of an area) [n -S]		s	DEEGIINN
+LENITIVE	a soothing medicine [n -S]		s	EEIILNTV
+NEATENED	NEATEN, to make neat (being in a state of cleanliness and order) [v]			ADEEENNT
+OVERTAME	too tame (gentle or docile) [adj]			AEEMORTV
+TROUTIER	TROUTY, abounding in trout (a freshwater fish) [adj]			EIORRTTU
+PILOTAGE	the act of piloting [n -S]		s	AEGILOPT
+COOEEING	COOEE, to cry out shrilly [v]			CEEGINOO
+NOSEDIVE	to go into a sudden steep drop [v -DIVED or -DOVE, -DIVING, -DIVES]		ds	DEEINOSV
+FOLIATED	FOLIATE, to hammer into thin plates [v]			ADEFILOT
+TRIFORIA	TRIFORIUM, a gallery in a church [n]			AFIIORRT
+EUROKIES	EUROKY, the ability of an organism to live under variable conditions [n]			EEIKORSU
+REGULATE	to control according to rule [v -LATED, -LATING, -LATES]		ds	AEEGLRTU
+GOLDTONE	made to resemble gold [adj]			DEGLNOOT
+INURBANE	not urbane [adj]			ABEINNRU
+DENTURAL	DENTURE, a set of teeth [adj]			ADELNRTU
+FACETIAE	witty sayings or writings [n]			AACEEFIT
+OUTRAVED	OUTRAVE, to surpass in raving [v]			ADEORTUV
+GENOCIDE	the deliberate extermination of a national or racial group [n -S]		s	CDEEGINO
+TOLUENES	TOLUENE, a flammable liquid [n]			EELNOSTU
+OVERTIRE	to tire excessively [v -TIRED, -TIRING, -TIRES]		ds	EEIORRTV
+DROOLIER	DROOLY, drooling [adj]			DEILOORR
+MODERATE	to make less extreme [v -ATED, -ATING, -ATES]		ds	ADEEMORT
+ENAMELER	one that enamels (to cover with a hard, glossy surface) [n -S]		s	AEEELMNR
+DENOTING	DENOTE, to indicate (to point out) [v]			DEGINNOT
+OVERNEAR	too near (situated within a short distance) [adj]			AEENORRV
+TEARDOWN	the process of disassembling [n -S]		s	ADENORTW
+RETURNEE	one that has returned [n -S]		s	EEENRRTU
+TEENAGED	teenage (pertaining to teenagers (a person between the ages of thirteen and nineteen)) [adj]			ADEEEGNT
+OBVIATED	OBVIATE, to prevent or eliminate by effective measures [v]			ABDEIOTV
+EMANATOR	one that emanates (to send forth) [n -S]		s	AAEMNORT
+ANDROGEN	a male sex hormone [n -S]		s	ADEGNNOR
+REEARNED	REEARN, EARN, to gain or deserve for one's labor or service [v]			ADEEENRR
+CORONATE	to crown (to supply with a crown (a royal headpiece)) [v -NATED, -NATING, -NATES]		ds	ACENOORT
+PAGINATE	to number the pages of [v -NATED, -NATING, -NATES]		ds	AAEGINPT
+ORATORIO	a type of musical composition [n -RIOS]		s	AIOOORRT
+CANOEING	CANOE, to paddle a canoe (a light, slender boat) [v]			ACEGINNO
+ABNEGATE	to deny to oneself [v -GATED, -GATING, -GATES]		ds	AABEEGNT
+DENTICLE	a small tooth (one of the hard structures attached in a row to each jaw) [n -S]		s	CDEEILNT
+VALERATE	a chemical salt [n -S]		s	AAEELRTV
+UNAVOWED	AVOW, to declare openly [adj]			ADENOUVW
+LITIGATE	to subject to legal proceedings [v -GATED, -GATING, -GATES]		ds	AEGIILTT
+DEFINITE	known for certain [adj]			DEEFIINT
+CENOBITE	a member of a religious order [n -S]		s	BCEEINOT
+ELOINING	ELOIN, to eloign (to remove to a distant place) [v]			EGIILNNO
+LEVITATE	to rise and float in the air [v -TATED, -TATING, -TATES]		ds	AEEILTTV
+UNEARNED	EARN, to gain or deserve for one's labor or service [adj]			ADEENNRU
+GADARENE	headlong (rash; impetuous) [adj]			AADEEGNR
+FORETIME	the past (time gone by) [n -S]	a	s	EEFIMORT
+TOEPIECE	a piece of a shoe designed to cover the toes [n -S]		s	CEEEIOPT
+EYESTONE	a disk used to remove foreign matter from the eye [n -S]		s	EEENOSTY
+GLADIATE	shaped like a sword [adj]			AADEGILT
+TAILGATE	to drive dangerously close behind another vehicle [v -GATED, -GATING, -GATES]		drs	AAEGILTT
+DEIONIZE	to remove ions from [v -IZED, -IZING, -IZES]		drs	DEEIINOZ
+ENTANGLE	to tangle (to bring together in intricate confusion) [v -TANGLED, -TANGLING, -TANGLES]	p	drs	AEEGLNNT
+ACAULINE	having no stem [adj]			AACEILNU
+NEURONAL	NEURON, the basic cellular unit of the nervous system [adj]			AELNNORU
+LEVIGATE	to reduce to a fine powder [v -GATED, -GATING, -GATES]		ds	AEEGILTV
+RAILROAD	to transport by railroad (a type of road on which locomotives are run) [v -ED, -ING, -S]		s	AADILORR
+ROUTEMEN	ROUTEMAN, one who conducts business on a customary course [n]			EEMNORTU
+SILURIAN	of or pertaining to a certain geologic time period [adj]			AIILNRSU
+RATIFIER	one that ratifies (to approve and sanction formally) [n -S]	g	s	AEFIIRRT
+NEURULAE	NEURULA, a vertebrate embryo [n]			AEELNRUU
+IDEALOGY	ideology (a systematic body of ideas) [n -GIES]			ADEGILOY
+TIMELIER	TIMELY, occurring at the right moment [adj]			EEIILMRT
+FAINEANT	a lazy person [n -S]		s	AAEFINNT
+EARPHONE	a listening device worn over the ear [n -S]		s	AEEHNOPR
+INTITLED	INTITLE, to entitle (to give a title to) [v]			DEIILNTT
+TRANQUIL	free from disturbance [adj -QUILER, -QUILEST or -QUILLER, -QUILLEST]			AILNQRTU
+GERARDIA	an herb (a flowering plant with a nonwoody stem) [n -S]		s	AADEGIRR
+RECOILER	one that recoils (to draw back in fear or disgust) [n -S]		s	CEEILORR
+PETITION	to make a formal request [v -ED, -ING, -S]		s	EIINOPTT
+HEREUNTO	hereto (to this matter) [adv]	tw		EEHNORTU
+GOODLIER	GOODLY, of pleasing appearance [adj]			DEGILOOR
+ANNEALED	ANNEAL, to toughen (to make tough (strong and resilient)) [v]			AADEELNN
+ENFILADE	to direct heavy gunfire along the length of [v -LADED, -LADING, -LADES]		ds	ADEEFILN
+NITRATOR	one that nitrates (to treat with nitric acid) [n -S]		s	AINORRTT
+AGITATED	AGITATE, to move with a violent, irregular action [v]			AADEGITT
+ENJOINER	one that enjoins (to command (to direct with authority)) [n -S]		s	EEIJNNOR
+GENEROUS	willing to give [adj]			EEGNORSU
+UNLOADER	one that unloads (to remove the load or cargo from) [n -S]		s	ADELNORU
+OVERGILT	OVERGILD, to gild over [v]			EGILORTV
+OVERTOIL	to wear out or exhaust by excessive toil [v -ED, -ING, -S]		s	EILOORTV
+DUVETINE	duvetyn (a soft fabric) [n -S]		s	DEEINTUV
+DOUGHIER	DOUGHY, resembling dough (a flour mixture) [adj]			DEGHIORU
+OUTGUIDE	to surpass in guiding (to show the way to) [v -GUIDED, -GUIDING, -GUIDES]		ds	DEGIOTUU
+GRUNTLED	GRUNTLE, to put in a good humor [v]			DEGLNRTU
+WATERDOG	a large salamander [n -S]		s	ADEGORTW
+ANTHODIA	ANTHODIUM, a flower head of certain plants [n]			AADHINOT
+FRUITION	the accomplishment of something desired [n -S]		s	FIINORTU
+OOGAMIES	OOGAMY, the state of being oogamous (having structurally dissimilar gametes) [n]			AEGIMOOS
+INFAUNAE	INFAUNA, fauna living on a soft sea floor [n]			AAEFINNU
+OUTFIRED	OUTFIRE, to surpass in firing [v]			DEFIORTU
+ELOQUENT	fluent and convincing in speech [adj]			EELNOQTU
+ADULATOR	one that adulates (to praise excessively) [n -S]		sy	AADLORTU
+EIGHTEEN	a number [n -S]		s	EEEGHINT
+URETERAL	URETER, the duct that conveys urine from the kidney to the bladder [adj]			AEELRRTU
+TOREUTIC	pertaining to a type of metalwork [adj]		s	CEIORTTU
+EDUCTION	the act of educing (to draw forth or bring out) [n -S] : EDUCTIVE ~adj	drs	s	CDEINOTU
+CARRIOLE	cariole (a small, open carriage) [n -S]		s	ACEILORR
+IDEALITY	the state of being perfect; something idealized [n -TIES]			ADEIILTY
+NEUTERED	NEUTER, to castrate (to remove the testes of) [v]			DEEENRTU
+PRIEDIEU	a piece of furniture for kneeling on during prayer [n -DIEUS or -DIEUX]		sx	DEEIIPRU
+EQUISETA	EQUISETUM, a rushlike plant [n]			AEEIQSTU
+DOTATION	an endowment [n -S]		s	ADINOOTT
+VEINULET	venule (a small vein) [n -S]		s	EEILNTUV
+RELENTED	RELENT, to become less severe [v]			DEEELNRT
+OVENWARE	heat-resistant dishes for baking and serving food [n -S]		s	AEENORVW
+IODATING	IODATE, to iodize (to treat with iodine) [v]			ADGIINOT
+REGOLITH	a layer of loose rock [n -S]		s	EGHILORT
+WANTONER	one that wantons (to behave immorally) [n -S]		s	AENNORTW
+DELETING	DELETE, to remove written or printed matter [v]			DEEGILNT
+DUNGAREE	a coarse cotton fabric [n -S]		ds	ADEEGNRU
+NAVIGATE	to plan and control the course of [v -GATED, -GATING, -GATES]		ds	AAEGINTV
+EUPNOEIC	EUPNOEA, eupnea (normal breathing) [adj]			CEEINOPU
+ELEVATOR	one that elevates (to raise (to move to a higher position)) [n -S]		s	AEELORTV
+EMACIATE	to make thin (having relatively little density or thickness) [v -ATED, -ATING, -ATES]		ds	AACEEIMT
+GORDITAS	GORDITA, a stuffed and fried pocket of cornmeal dough [n]			ADGIORST
+APERITIF	an alcoholic drink taken before a meal [n -S]		s	AEFIIPRT
+INTAGLIO	an incised or sunken design [n -GLIOS or -GLI] / to engrave in intaglio [v -ED, -ING, -S]		s	AGIILNOT
+AMIDOGEN	a univalent chemical radical [n -S]		s	ADEGIMNO
+TAUTENED	TAUTEN, to make taut (fully stretched, so as not to be slack) [v]			ADEENTTU
+DECORATE	to adorn (to add something to for the purpose of making more attractive) [v -RATED, -RATING, -RATES]		ds	ACDEEORT
+DIGITATE	having digits (a finger or toe) [adj]		d	ADEGIITT
+HELOTAGE	helotism (slavery or or serfdom) [n -S]		s	AEEGHLOT
+EGOISTIC	EGOIST, one who practices egoism (extreme devotion to self-interest) [adj]			CEGIIOST
+TIGEREYE	a gemstone (a precious stone) [n -S]		s	EEEGIRTY
+UNHAIRER	one that unhairs (to remove the hair from) [n -S]		s	AEHINRRU
+BORACITE	a mineral [n -S]		s	ABCEIORT
+ABORTIVE	failing to succeed [adj]			ABEIORTV
+RUTILANT	having a reddish glow [adj]			AILNRTTU
+SUGARIER	SUGARY, containing or resembling sugar [adj]			AEGIRRSU
+RIDGETOP	the crest of a ridge [n -S]		s	DEGIOPRT
+ADEEMING	ADEEM, to take away [v]			ADEEGIMN
+OVERPAID	OVERPAY, to pay too much [v]			ADEIOPRV
+ADNATION	the state of being adnate (joined to another part or organ) [n -S]		s	AADINNOT
+VESTIGIA	VESTIGIUM, a vestige (a visible sign of something that is no longer in existence) [n]		l	AEGIISTV
+IGNORANT	having no knowledge [adj]			AGINNORT
+BETATRON	an electron accelerator [n -S]		s	ABENORTT
+YULETIDE	yule (Christmas time) [n -S]		s	DEEILTUY
+GUIDANCE	advice (recommendation regarding a decision or course of conduct) [n -S]		s	ACDEGINU
+TALENTED	TALENT, a special natural ability [adj]			ADEELNTT
+EVECTION	irregularity in the moon's motion [n -S]		s	CEEINOTV
+HORNTAIL	a wasplike insect [n -S]		s	AHILNORT
+THIONINE	thionin (a violet dye) [n -S]	e	s	EHIINNOT
+HYOIDEAN	HYOID, a bone of the tongue [adj]			ADEHINOY
+ORNERIER	ORNERY, stubborn and mean-spirited [adj]			EEINORRR
+IRONICAL	ironic (pertaining to irony (the use of words to express the opposite of what is literally said)) [adj]			ACIILNOR
+AUTOCOID	autacoid (a hormone (a secretion of the endocrine organs)) [n -S]		s	ACDIOOTU
+PERIGEAL	PERIGEE, the point in the orbit of a celestial body which is nearest to the earth [adj]			AEEGILPR
+GRADUATE	to receive an academic degree or diploma [v -ATED, -ATING, -ATES]		ds	AADEGRTU
+AZOTURIA	an excess of nitrogenous substances in the urine [n -S]		s	AAIORTUZ
+AGNATION	the relationship of agnates [n -S]		s	AAGINNOT
+TERRARIA	TERRARIUM, a glass enclosure for plants or small animals [n]			AAEIRRRT
+FOVEATED	FOVEA, a shallow anatomical depression [adj]			ADEEFOTV
+EVENTIDE	evening (the latter part of the day and early part of the night) [n -S]		s	DEEEINTV
+LIGATIVE	LIGATION, the act of ligating (to bind (to tie or secure)) [adj]			AEGIILTV
+BIFORATE	having two perforations [adj]			ABEFIORT
+ATTORNEY	a lawyer [n -NEYS]		s	AENORTTY
+GROTTIER	GROTTY, wretched (extremely unhappy) [adj]			EGIORRTT
+GRAVIDAE	GRAVIDA, a pregnant woman [n]			AADEGIRV
+RONDELET	a rondeau of 5 or 7 lines [n -S]		s	DEELNORT
+TREADLER	one that treadles (to work a foot lever) [n -S]		s	ADEELRRT
+ADEQUATE	sufficient for a specific requirement [adj]			AADEEQTU
+WATERAGE	the conveyance of goods by water [n -S]		s	AAEEGRTW
+ARROGATE	to claim or take without right [v -GATED, -GATING, -GATES]		ds	AAEGORRT
+PRONATED	PRONATE, to turn the palm downward or backward [v]			ADENOPRT
+INFERIOR	one of lesser rank [n -S]		s	EFIINORR
+ELYTROID	ELYTRON, a hardened forewing of certain insects [adj]			DEILORTY
+DIAPAUSE	to undergo dormancy [v -PAUSED, -PAUSING, -PAUSES]		ds	AADEIPSU
+IRRITANT	something that irritates [n -S]		s	AIINRRTT
+TRECENTO	the fourteenth century [n -TOS]		s	CEENORTT
+RAINCOAT	a waterproof coat [n -S]		s	AACINORT
+OUTLIVER	one that outlives (to live longer than) [n -S]		s	EILORTUV
+COVARIED	COVARY, to exhibit variation of two or more variables [v]			ACDEIORV
+NUCLEATE	to form into a nucleus [v -ATED, -ATING, -ATES]	e	ds	ACEELNTU
+WATERLOO	a decisive defeat [n -LOOS]		s	AELOORTW
+EJECTION	the act of ejecting (to throw out forcibly) [n -S]	dr	s	CEEIJNOT
+DRATTING	DRAT, to damn (to curse (to wish evil upon)) [v]			ADGINRTT
+ATONABLE	ATONE, to make amends or reparation [adj]			AABELNOT
+PORTIERE	a curtain for a doorway [n -S]		s	EEIOPRRT
+BIENNALE	a biennial show [n -S]		s	ABEEILNN
+AUGURIES	AUGURY, the practice of auguring [n]			AEGIRSUU
+OVERLAND	a train or stagecoach that travels over land [n -S]		s	ADELNORV
+GYNOECIA	GYNOECIUM, gynecium (the pistil of a flower) [n]			ACEGINOY
+AUTACOID	a hormone (a secretion of the endocrine organs) [n -S]		s	AACDIOTU
+OVERRATE	to rate too highly [v -RATED, -RATING, -RATES]		ds	AEEORRTV
+OUTLAWED	OUTLAW, to prohibit (to forbid by authority) [v]			ADELOTUW
+RIVERINE	pertaining to a river (a large, natural stream of water) [adj]			EEIINRRV
+INTUBATE	to insert a tube into [v -BATED, -BATING, -BATES]		ds	ABEINTTU
+TEABOARD	a tray for serving tea [n -S]		s	AABDEORT
+EPILOGUE	to provide with a concluding section [v -LOGUED, -LOGUING, -LOGUES]		ds	EEGILOPU
+EYEPOINT	the point at which an eye is placed in using an optical instrument [n -S]		s	EEINOPTY
+LEMURINE	pertaining to a lemur (an arboreal mammal related to the monkeys) [adj]			EEILMNRU
+STRENGTH	capacity for exertion or endurance [n -S]		s	EGHNRSTT
+ERECTILE	capable of being raised upright [adj]			CEEEILRT
+ANIMATOR	one that animates (to give life to) [n -S]		s	AAIMNORT
+GENITIVE	a grammatical case [n -S]		s	EEGIINTV
+TUBEROID	pertaining to a tuber (a thick underground stem) [adj]			BDEIORTU
+ANTEROOM	a waiting room [n -S]		s	AEMNOORT
+WANDEROO	an Asian monkey [n -ROOS]		s	ADENOORW
+ANTIACNE	effective against acne [adj]			AACEINNT
+NEURONES	NEURONE, neuron (the basic cellular unit of the nervous system) [n]			EENNORSU
+DIVAGATE	to wander (to move about with no destination or purpose) [v -GATED, -GATING, -GATES]		ds	AADEGITV
+BEVATRON	a proton accelerator [n -S]		s	ABENORTV
+REGICIDE	the killing of a king [n -S]		s	CDEEGIIR
+VIOLATOR	one that violates (to break or disregard the terms or requirements of) [n -S]		s	AILOORTV
+EPICEDIA	EPICEDIUM, a funeral song [n]			ACDEEIIP
+HETAERAE	HETAERA, a concubine [n]			AAEEEHRT
+EUXENITE	a mineral [n -S]		s	EEEINTUX
+ROTATION	the act or an instance of rotating [n -S] : ROTATIVE ~adj		s	AINOORTT
+OVERHATE	to hate to excess [v -HATED, -HATING, -HATES]		ds	AEEHORTV
+UNROOTED	UNROOT, to uproot (to pull up by the roots) [v]			DENOORTU
+BRAINIER	BRAINY, smart (characterized by mental acuity) [adj]			ABEIINRR
+UNCINATE	bent at the end like a hook [adj]	r		ACEINNTU
+REINDEER	a large deer (a ruminant mammal) [n -S]		s	DEEEINRR
+RECOILED	RECOIL, to draw back in fear or disgust [v]			CDEEILOR
+ECOTONAL	ECOTONE, a type of ecological zone [adj]			ACELNOOT
+TRUANTED	TRUANT, to stay out of school without permission [v]			ADENRTTU
+PROGERIA	premature aging [n -S]		s	AEGIOPRR
+LUNATION	the interval between two successive new moons [n -S]		s	AILNNOTU
+ENHALOED	ENHALO, to surround with a halo [v]			ADEEHLNO
+PROTEIDE	proteid (protein (a nitrogenous organic compound)) [n -S]		s	DEEIOPRT
+AUTOCADE	a procession of automobiles [n -S]		s	AACDEOTU
+AIRPOWER	the military strength of a nation's air force [n -S]		s	AEIOPRRW
+OVERBEAT	to beat too much [v -BEAT, -BEATEN, -BEATING, -BEATS]		s	ABEEORTV
+OUTARGUE	to get the better of by arguing [v -GUED, -GUING, -GUES]		ds	AEGORTUU
+UNBEATEN	BEAT, to strike repeatedly [adj]			ABEENNTU
+ENGIRDLE	to engird (to gird (to surround (to extend completely around))) [v -DLED, -DLING, -DLES]		ds	DEEGILNR
+REROUTED	REROUTE, ROUTE, to send on a particular course [v]			DEEORRTU
+GEOMETER	a specialist in geometry [n -S]		s	EEEGMORT
+OUTYIELD	to surpass in yield (the amount of an agricultural or industrial product) [v -ED, -ING, -S]		s	DEILOTUY
+UNLEARNT	UNLEARN, to put out of one's knowledge or memory [v]			AELNNRTU
+UNTIEING	UNTIE, to free from something that ties [v]			EGIINNTU
+OPTIONED	OPTION, to grant an option (a right to buy or sell something at a specified price within a specified time) on [v]			DEINOOPT
+LEMONADE	a beverage (a liquid for drinking) [n -S]		s	ADEELMNO
+LOTHARIO	a seducer of women [n -IOS]		s	AHILOORT
+OUTVOICE	to surpass in loudness of voice [v -VOICED, -VOICING, -VOICES]		ds	CEIOOTUV
+ADOPTIVE	ADOPTION, the act of adopting (to take into one's family by legal means) [adj]			ADEIOPTV
+LEVANTED	LEVANT, to avoid a debt [v]			ADEELNTV
+WATERLOG	to soak with water [v -LOGGED, -LOGGING, -LOGS]		s	AEGLORTW
+TUNNELER	one that tunnels (to dig a tunnel (an underground passageway)) [n -S]		s	EELNNRTU
+BORRELIA	a coiled spirochete [n -S]		s	ABEILORR
+NIELLOED	NIELLO, to decorate with niello [v]			DEEILLNO
+AVOIDING	AVOID, to keep away from [v]			ADGIINOV
+LINGERER	one that lingers (to delay leaving) [n -S]		s	EEGILNRR
+AVIGATOR	one that navigates aircraft [n -S]	n	s	AAGIORTV
+GRIDIRON	to mark off into squares [v -ED, -ING, -S]		s	DGIINORR
+ROUTEMAN	one who conducts business on a customary course [n ROUTEMEN]			AEMNORTU
+PILEWORT	a medicinal plant [n -S]		s	EILOPRTW

@@ -1,0 +1,18 @@
+ABEEINST		BETAINES		BETAINE, an alkaloid (a type of chemical compound) [n]
+ACEEINST		CINEASTE	s	cineast (a devotee of motion pictures) [n -S]
+ADEEINST		ANDESITE	s	a volcanic rock [n -S] : ANDESITIC ~adj
+AEEIMNST	k	ETAMINES		ETAMINE, a loosely woven fabric [n]
+AEEIMNST		MATINEES		MATINEE, a daytime performance [n]
+AEEIMNST		MISEATEN		MISEAT, to eat improperly [v]
+AEEINRST		ARENITES		ARENITE, rock made up chiefly of sand grains [n]
+AEEINRST		ARSENITE	s	a chemical salt [n -S]
+AEEINRST		RESINATE	ds	to resin (to treat with resin (a viscous substance obtained from certain plants)) [v -ATED, -ATING, -ATES]
+AEEINRST		STEARINE	s	stearin (the solid portion of a fat) [n -S]
+AEEINRST		TRAINEES		TRAINEE, a person receiving training [n]
+AEEINSST		ETESIANS		ETESIAN, an annually recurring wind [n]
+AEEINSST		TENIASES		TENIASIS, infestation with tapeworms [n]
+AEEINSTT		ANISETTE	s	a liqueur flavored with aniseed [n -S]
+AEEINSTT		TAENITES		TAENITE n pl. -S a nickel-iron alloy in meteorites
+AEEINSTT		TETANIES		TETANY, a condition marked by painful muscular spasms [n]
+AEEINSTT		TETANISE	ds	to tetanize (to affect with convulsions) [v -NISED, -NISING, -NISES]
+AEEINSTV		NAIVETES		NAIVETE, the quality of being naive [n]
